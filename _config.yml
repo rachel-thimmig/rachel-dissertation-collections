@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: Objects from Rachel Thimmig's Dissertation
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Collections examined as part of my dissertation research.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "Collections from sites examined as part of my dissertation research. As of June 12, 2025, these include Crow-Flies-High Village (32MZ1) and Fort Clark (32ME2). Like-A-Fishhook Village (32ML2) and Star Village (32ME16) to be added at a later date."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Rachel Thimmig
 
 ##########
 # COLLECTION SETTINGS
